@@ -8,7 +8,7 @@ Hi 👋 **I am a fullstack website developer** from <img width="20" src="https:/
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://pastebin.com/raw/zvPsXUKS" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://steamcommunity.com/id/-mxin/" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a>
+<a href="https://pastebin.com/raw/zvPsXUKS" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://steamcommunity.com/id/improdoodoo/" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a>
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
