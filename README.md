@@ -4,7 +4,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasbenahmed&theme=dark&hide_border=true&layout=compact">
 
-Hi. 👋 **I am a fullstack website developer** from <img width="20" src="https://cdn.countryflags.com/thumbs/tunisia/flag-800.png"> **Tunisia**. I am currently focusing mostly on Javascript frameworks VueJS/NuxtJS and some others, I also have enough experience on Python and C languages. I mostly create websites and windows softwares for ~~fun~~ my sake or need.
+Hi 👋 **I am a fullstack website developer** from <img width="20" src="https://cdn.countryflags.com/thumbs/tunisia/flag-800.png"> **Tunisia**. I am currently focusing mostly on Javascript frameworks VueJS/NuxtJS and some others, I also have enough experience on Python and C languages. I mostly create websites and windows softwares for ~~fun~~ my sake or need.
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
