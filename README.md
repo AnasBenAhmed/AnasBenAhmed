@@ -14,7 +14,7 @@
 
 <!-- ============ ANIMATED TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00FF6A&center=true&vCenter=true&width=620&height=70&lines=%3E+whoami%3A+Anas+Ben+Ahmed;%3E+roles%3A+Designer+%7C+Developer+%7C+Engineer;%3E+stack%3A+web+%C2%B7+mobile+%C2%B7+desktop;%3E+building+with+C%2B%2B+%2F+C%23+%2F+JS;%3E+status%3A+ready+to+build_" alt="Terminal typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=E11B22&center=true&vCenter=true&width=640&height=55&lines=Graphic+Designer+%26+Developer;Building+for+web%2C+mobile+%26+desktop;Pixel-perfect+design%2C+solid+engineering" alt="Tagline"/>
 </p>
 
 <!-- ============ CONTACT ROW ============ -->
@@ -101,7 +101,7 @@ const anas = {
 ## 💭 Dev Quote of the Visit
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote — changes every visit"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="Random dev quote — changes every visit"/>
 </p>
 
 <!-- divider -->
