@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <a href="https://annas.host">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11B22,100:E0A82E&height=200&section=header&text=Anas%20Ben%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Designer%20%C2%B7%20Developer%20%C2%B7%20Engineer&descSize=20&descAlignY=64&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11B22,100:E0A82E&height=130&section=header&text=Anas%20Ben%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </a>
 
 <!-- ============ ABA LOGO ============ -->
@@ -19,7 +19,7 @@
 
 <!-- ============ ANIMATED TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=E11B22&center=true&vCenter=true&width=640&height=55&lines=Graphic+Designer+%26+Developer;Building+for+web%2C+mobile+%26+desktop;Pixel-perfect+design%2C+solid+engineering" alt="Tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=30&lines=Graphic+Designer+%C2%B7+Full+Stack+Web+Developer+%C2%B7+Software+Engineer&repeat=false" alt="Tagline"/>
 </p>
 
 <!-- ============ CONTACT ROW ============ -->
