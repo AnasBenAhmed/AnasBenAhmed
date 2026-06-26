@@ -1,12 +1,7 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ============ HEADER BANNER + ABA LOGO ============ -->
 <a href="https://annas.host">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11B22,100:E0A82E&height=130&section=header&text=Anas%20Ben%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=55" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AnasBenAhmed/Portfolio/main/public/aba-profile-banner.svg" width="100%" alt="ABA"/>
 </a>
-
-<!-- ============ ABA LOGO ============ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnasBenAhmed/Portfolio/main/public/aba-transparent.svg" width="260" alt="ABA"/>
-</p>
 
 <!-- ============ PROFILE VIEWS + STATUS ============ -->
 <p align="center">
