@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11B22,100:E0A82E&height=200&section=header&text=Anas%20Ben%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Designer%20%C2%B7%20Developer%20%C2%B7%20Engineer&descSize=20&descAlignY=64&descColor=ffffff" width="100%"/>
 </a>
 
+<!-- ============ ABA LOGO ============ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasBenAhmed/Portfolio/main/public/aba-transparent.svg" width="260" alt="ABA"/>
+</p>
+
 <!-- ============ PROFILE VIEWS + STATUS ============ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnasBenAhmed&label=Profile%20Views&color=E11B22&style=for-the-badge" alt="profile views"/>
