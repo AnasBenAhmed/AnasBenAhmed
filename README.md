@@ -70,7 +70,7 @@ const anas = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
+      <h3><a href="https://github.com/AnasBenAhmed/Portfolio">🌐 Personal Portfolio</a></h3>
       <p><i>Next.js · React · Node.js</i></p>
       <p>A responsive, animated portfolio built from scratch — clean UI with smooth interactions showcasing design and dev work.</p>
     </td>
