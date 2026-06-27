@@ -75,7 +75,7 @@ const anas = {
       <p>A responsive, animated portfolio built from scratch — clean UI with smooth interactions showcasing design and dev work.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 Ripple</h3>
+      <h3>🌊 Ripple — Video & Audio Downloader</h3>
       <p><i>Python · FastAPI · Next.js</i></p>
       <p>A video and audio downloader for YouTube, Instagram, and TikTok — built from scratch with a fast Python backend and a clean web UI.</p>
     </td>
@@ -98,7 +98,11 @@ const anas = {
       <p><i>C++</i></p>
       <p>A playable chess engine with an AI opponent using move-search algorithms, full game logic, and adjustable difficulty.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🔮 Iris — AI Image Generator</h3>
+      <p><i>C# · WPF · .NET</i></p>
+      <p>A native Windows AI image generator — type a prompt, get a real Stable Diffusion XL image. Powered by Hugging Face with a clean dark UI.</p>
+    </td>
   </tr>
 </table>
 
