@@ -75,22 +75,30 @@ const anas = {
       <p>A responsive, animated portfolio built from scratch — clean UI with smooth interactions showcasing design and dev work.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>🌊 Ripple</h3>
+      <p><i>Python · FastAPI · Next.js</i></p>
+      <p>A video and audio downloader for YouTube, Instagram, and TikTok — built from scratch with a fast Python backend and a clean web UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🛒 E-Commerce Store</h3>
       <p><i>Vue.js · Nuxt</i></p>
       <p>A full-featured store with product listings, cart, and checkout flow, with state management and a smooth shopping experience.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💱 Currency Converter</h3>
       <p><i>Android &amp; iOS</i></p>
       <p>A cross-platform mobile app delivering real-time exchange rates through a clean, fast interface optimized for quick conversions.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>♟️ Chess with AI</h3>
       <p><i>C++</i></p>
       <p>A playable chess engine with an AI opponent using move-search algorithms, full game logic, and adjustable difficulty.</p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
