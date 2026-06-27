@@ -35,7 +35,7 @@ Multidisciplinary **developer and designer** building for web, mobile, and deskt
 ```js
 const anas = {
   roles:    ["Graphic Designer", "Web & Mobile Developer", "Software Engineer"],
-  code:     ["JavaScript", "TypeScript", "C++", "C#"],
+  code:     ["JavaScript", "TypeScript", "Python", "C++", "C#"],
   building: ["responsive web", "native iOS & Android", "Windows desktop apps"],
   design:   ["Photoshop", "Illustrator", "Figma"],
   mindset:  "pixel-perfect by design, solid by engineering",
@@ -50,7 +50,7 @@ const anas = {
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs,html,css&theme=light" />
 </p>
 <p align="center">
   <b>Frameworks &amp; Runtime</b><br/>
