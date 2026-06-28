@@ -75,9 +75,9 @@ const anas = {
       <p>A responsive, animated portfolio built from scratch — clean UI with smooth interactions showcasing design and dev work.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 Ripple — Video & Audio Downloader</h3>
+      <h3><a href="https://github.com/AnasBenAhmed/Ripple">🌊 Ripple — Video & Audio Downloader</a></h3>
       <p><i>Python · FastAPI · Next.js</i></p>
-      <p>A video and audio downloader for YouTube, Instagram, and TikTok — built from scratch with a fast Python backend and a clean web UI.</p>
+      <p>A no-login video & audio downloader for YouTube, Instagram, TikTok & Twitch — built from scratch (no yt-dlp) with a fast Python backend, parallel downloads, and a clean queue-based UI.</p>
     </td>
   </tr>
   <tr>
