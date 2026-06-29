@@ -104,6 +104,14 @@ const anas = {
       <p>A native Windows AI image generator — type a prompt, get a real Stable Diffusion XL image. Powered by Hugging Face with a clean dark UI.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔒 Cipher — Encrypted Messenger</h3>
+      <p><i>WebRTC · libsodium · P2P</i></p>
+      <p>A private, end-to-end encrypted messenger with peer-to-peer delivery — no central server holding your messages. Inspired by Signal &amp; Session, built privacy-first.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <!-- divider -->
