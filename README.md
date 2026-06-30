@@ -117,6 +117,35 @@ const anas = {
 <!-- divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0A82E,100:E11B22&height=4" width="100%"/>
 
+<!-- ============ TESTING ============ -->
+## 🧪 Testing & Quality
+
+I treat tests as part of *done* — **every project I ship comes with its own automated test suite**, not just code that happens to work when I click around.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ VANTA</h3>
+      <p><b>Vitest</b> — unit tests across the cart &amp; wishlist stores and price formatting (line-merging, subtotals, quantity clamping).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 Ripple</h3>
+      <p><b>pytest</b> — URL routing &amp; platform detection for all four extractors, plus the dispatcher.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tested%20with-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tested%20with-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</p>
+
+<p align="center"><i>Every new project lands with its own tests from day one.</i></p>
+
+<!-- divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11B22,100:E0A82E&height=4" width="100%"/>
+
 <!-- ============ DYNAMIC QUOTE ============ -->
 ## 💭 Dev Quote of the Visit
 
