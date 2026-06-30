@@ -82,9 +82,9 @@ const anas = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Store</h3>
-      <p><i>Vue.js · Nuxt</i></p>
-      <p>A full-featured store with product listings, cart, and checkout flow, with state management and a smooth shopping experience.</p>
+      <h3><a href="https://github.com/AnasBenAhmed/VANTA">🛍️ VANTA — Luxury Fashion Store</a></h3>
+      <p><i>Nuxt 4 · Vue · Pinia</i></p>
+      <p>A dark-luxe fashion storefront built from scratch — catalog with size/colour variants, search, cart, wishlist, quick-view, and a multi-step checkout. Statically generated, fully responsive.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💱 Currency Converter</h3>
