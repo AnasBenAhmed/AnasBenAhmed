@@ -87,9 +87,9 @@ const anas = {
       <p>A dark-luxe fashion storefront built from scratch — catalog with size/colour variants, search, cart, wishlist, quick-view, and a multi-step checkout. Statically generated, fully responsive.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💱 Currency Converter</h3>
-      <p><i>Android &amp; iOS</i></p>
-      <p>A cross-platform mobile app delivering real-time exchange rates through a clean, fast interface optimized for quick conversions.</p>
+      <h3><a href="https://github.com/AnasBenAhmed/Cambio">💱 Cambio — Currency Converter</a></h3>
+      <p><i>Flutter · Dart · Android &amp; iOS</i></p>
+      <p>A cross-platform converter from one Flutter codebase — 45+ currencies with live &amp; historical charts, favourites, and a custom keypad. Pixel-identical on Android &amp; iOS.</p>
     </td>
   </tr>
   <tr>
@@ -133,12 +133,21 @@ I treat tests as part of *done* — **every project I ship comes with its own au
       <p><b>pytest</b> — URL routing &amp; platform detection for all four extractors, plus the dispatcher.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💱 Cambio</h3>
+      <p><b>flutter_test</b> — keypad input, number formatting, Yahoo rate parsing &amp; USD triangulation, and the favourites store.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tested%20with-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Tested%20with-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tested%20with-flutter__test-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
 <p align="center"><i>Every new project lands with its own tests from day one.</i></p>
