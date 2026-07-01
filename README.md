@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://annas.host"><img src="https://img.shields.io/badge/Portfolio-annas.host-E11B22?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:anasbenahmed@gmail.com"><img src="https://img.shields.io/badge/Email-anasbenahmed@gmail.com-E0A82E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AnasBenAhmed"><img src="https://img.shields.io/badge/GitHub-AnasBenAhmed-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anas-benahmed/"><img src="https://img.shields.io/badge/LinkedIn-Anas%20Ben%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <!-- divider -->
@@ -94,14 +94,14 @@ const anas = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>♟️ Chess with AI</h3>
-      <p><i>C++</i></p>
-      <p>A playable chess engine with an AI opponent using move-search algorithms, full game logic, and adjustable difficulty.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🔮 Iris — AI Image Generator</h3>
       <p><i>C# · WPF · .NET</i></p>
       <p>A native Windows AI image generator — type a prompt, get a real Stable Diffusion XL image. Powered by Hugging Face with a clean dark UI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ Chess with AI</h3>
+      <p><i>C++</i></p>
+      <p>A playable chess engine with an AI opponent using move-search algorithms, full game logic, and adjustable difficulty.</p>
     </td>
   </tr>
   <tr>
