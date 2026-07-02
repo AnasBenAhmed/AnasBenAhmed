@@ -94,9 +94,9 @@ const anas = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔮 Iris — AI Image Generator</h3>
-      <p><i>C# · WPF · .NET</i></p>
-      <p>A native Windows AI image generator — type a prompt, get a real Stable Diffusion XL image. Powered by Hugging Face with a clean dark UI.</p>
+      <h3><a href="https://github.com/AnasBenAhmed/Iris">🔮 Iris — AI Image Generator</a></h3>
+      <p><i>C# · WPF · .NET 8</i></p>
+      <p>A native Windows AI image generator — type a prompt, get a real AI image in seconds. Keyless, no account, no billing, with style presets, a local gallery, and prompt history.</p>
     </td>
     <td width="50%" valign="top">
       <h3>♟️ Chess with AI</h3>
@@ -138,7 +138,10 @@ I treat tests as part of *done* — **every project I ship comes with its own au
       <h3>💱 Cambio</h3>
       <p><b>flutter_test</b> — keypad input, number formatting, Yahoo rate parsing &amp; USD triangulation, and the favourites store.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🔮 Iris</h3>
+      <p><b>xUnit</b> — prompt composition, request building, the gallery &amp; history stores, and the generate/cancel view-model flow.</p>
+    </td>
   </tr>
 </table>
 
@@ -148,6 +151,8 @@ I treat tests as part of *done* — **every project I ship comes with its own au
   <img src="https://img.shields.io/badge/Tested%20with-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Tested%20with-flutter__test-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tested%20with-xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
 
 <p align="center"><i>Every new project lands with its own tests from day one.</i></p>
